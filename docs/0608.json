@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "码上放生┃🏝┃关注公众号",
+            "name": "关注公众号┃🏝┃码上放生",
             "type": "4",
             "api": "https://douban.sec-an.cn/vod?douban&jx=1&timeout=5",
             "searchable": "0",
